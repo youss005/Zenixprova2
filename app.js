@@ -1530,7 +1530,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMobMenu()});
 // ── WHATSAPP ──
 function openWhatsApp(){
   const msg=encodeURIComponent('Ciao Zenix! Vorrei richiedere un preventivo per il servizio di car detailing a domicilio. 🚗✨');
-  window.open('https://wa.me/393331234567?text='+msg,'_blank');
+  window.open('https://wa.me/393711317736?text='+msg,'_blank');
 }
 const waBtn=document.getElementById('wa-btn');
 const waCard=document.getElementById('wa-card');
