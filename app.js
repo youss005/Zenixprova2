@@ -325,7 +325,7 @@ const TRANSLATIONS = {
     cform_select: 'Seleziona',
     cform_message: 'Messaggio',
     cform_msg_ph: 'Scrivi qui il tuo messaggio...',
-    ph_tel: '+39 333 1234567',
+    ph_tel: '+39 371 1317736',
     admin_title: 'PANNELLO ADMIN',
     admin_subtitle: 'Area riservata Zenix Car Detailing — Gestione orari, prenotazioni e hotel.',
     admin_gate_title: 'ACCESSO RISERVATO',
